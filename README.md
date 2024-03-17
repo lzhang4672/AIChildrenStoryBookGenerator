@@ -33,7 +33,7 @@ To create a polished product, multiple GPT instances are run at once with each o
 - Keywords that are thrown into the story generating prompt to create unique and creative stories (i.e: bike, snow, parade, ...)
 
 ### **Story Outline Creation**: 
-Produces a pdf output of the compiled book with appropriate illustrations. See the sample folder for sample generations. None of the files in this folder have been manually altered in any way and come straight from the program.
+Produces a pdf output of the compiled book with appropriate illustrations. See the provided sample generations. None of the files in this folder have been manually altered in any way and come straight from the program.
 
 ### Setup
 
